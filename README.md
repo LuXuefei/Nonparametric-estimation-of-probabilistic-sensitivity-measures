@@ -7,6 +7,8 @@ Authors: Isadora Antoniano-Villalobos, Emanuele Borgonovo, Xuefei Lu
 May 2019
 
 
+
+
 * The 21-input Additive Gassian simulator
 
  Y=\sum_{i=1}^{21}a_i X_i
